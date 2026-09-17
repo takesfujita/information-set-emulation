@@ -3,7 +3,7 @@ message: "If you use this reproducibility package, please cite the accompanying 
 title: "Reproducibility package for: Information Set Emulation: Causal Certificates for AI Derived EHR Features"
 type: software
 version: "2.2.2"
-date-released: "2026-09-07"
+date-released: "2026-09-17"
 authors:
   - family-names: "Fujita"
     given-names: "Takes"
@@ -19,3 +19,18 @@ keywords:
   - partial identification
   - reproducibility
 abstract: "Reproducibility package containing synthetic simulation scripts, seed schedules, replicate-level outputs, table and figure generation scripts, synthetic Phase 0 validation files, and file hashes for the artificial EHR simulations in Information Set Emulation. No real patient data are used."
+identifiers:
+  - type: other
+    value: "arXiv:2609.17777"
+    description: "arXiv preprint"
+url: "https://github.com/takesfujita/information-set-emulation/"
+preferred-citation:
+  type: article
+  title: "Information Set Emulation: Causal Certificates for AI Derived EHR Features"
+  authors:
+    - family-names: Fujita
+      given-names: Takes
+    - family-names: Hattori
+      given-names: Nobutaka
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.17777"
