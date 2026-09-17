@@ -1,0 +1,5 @@
+{
+  "stressSimulationSeedBase": 20261000,
+  "replications": 200,
+  "n": 1000
+}

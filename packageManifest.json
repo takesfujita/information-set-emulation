@@ -1,0 +1,221 @@
+{
+  "version": "2.2.2",
+  "paths_relative_to": "anc/",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 967,
+      "sha256": "d185bfce5df9c9e804881de8aa95bcca81380cac3d52ad01f542e0f3addd3579"
+    },
+    {
+      "path": "CompatibleReportingCalculator.py",
+      "bytes": 2700,
+      "sha256": "a1901cd8b5de06d99f0d6b87c84b8ad5746eb6c5fc628b836ec871337f272e6f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1090,
+      "sha256": "0aa872197b2e20fbc899e2c41a4a0af0fbd55625551fcd740f6a45c41c5289df"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3050,
+      "sha256": "684b5776a5e77824abd4a8a253cd0e133df6593683862cdea934ee3d50a8df52"
+    },
+    {
+      "path": "ValueOfTypingCalculator.py",
+      "bytes": 2026,
+      "sha256": "70d126042c68da3b87123ccf2a226900a2c1aacfea6aaba2332d7d67c159cd04"
+    },
+    {
+      "path": "certificateTemplate.json",
+      "bytes": 747,
+      "sha256": "1a353461213594937e3dbea9acea200c17bdc3fe0fae35705de03d00af07a342"
+    },
+    {
+      "path": "compatibleWorldFrontier.py",
+      "bytes": 6672,
+      "sha256": "fca05f51135d42505efff120bfd5178750f5f7056bd90377ada00d77937ebf08"
+    },
+    {
+      "path": "compressionDriftValidation.py",
+      "bytes": 3931,
+      "sha256": "35ccb397522393bbafcca708c0e1ded643d50cccc9e0085df3ef2f897c6cf2b4"
+    },
+    {
+      "path": "fullSeedSchedule.json",
+      "bytes": 879,
+      "sha256": "056f6067e9031ee6d61f2c27068cc1ecde29c37b8f7a17627b7fee30fafe18c8"
+    },
+    {
+      "path": "iseSim/final/compressionDriftCells.csv",
+      "bytes": 3915,
+      "sha256": "980afa7a37d24caf5803745eecd74c3eb702990e0996d977daaae0925185abe7"
+    },
+    {
+      "path": "iseSim/final/compressionDriftSpecification.json",
+      "bytes": 367,
+      "sha256": "9dfb9154a7fcc171bff8d33f15ba1719ca521354fcab4d16786aeb417f8fc252"
+    },
+    {
+      "path": "iseSim/final/compressionDriftSummary.csv",
+      "bytes": 431,
+      "sha256": "554a7efc2c0e84a2c82db354b4b4e5b733c606486a6b2ea14843edbd728df409"
+    },
+    {
+      "path": "iseSim/final/compressionDriftSupport.csv",
+      "bytes": 482,
+      "sha256": "589c3f134fd891c39d81ea85df9166c2a7e3c1074328d94e82ac6e60ebe10820"
+    },
+    {
+      "path": "iseSim/final/frontierReplicates.csv",
+      "bytes": 513373,
+      "sha256": "12e0f32aff0abb6d3a5ab839a1a60d644ddb6ba4321ece55d27b9bd171a64075"
+    },
+    {
+      "path": "iseSim/final/frontierSeedSchedule.json",
+      "bytes": 159,
+      "sha256": "ea7a334e2c9dd15f042ec20d3a3f650a7ac9b0526fafec4196d4c8f4c24a501d"
+    },
+    {
+      "path": "iseSim/final/frontierSummary.csv",
+      "bytes": 980,
+      "sha256": "ec5d1b758b7df29864b9cd95c6ddcd41712a3772745ef1ad7f847eb2faedd575"
+    },
+    {
+      "path": "iseSim/final/frontierWorlds.csv",
+      "bytes": 171,
+      "sha256": "415a89ff279d0b93fb501583ca47dd1ffff436b1dee0d9c9808b488d6419fe15"
+    },
+    {
+      "path": "iseSim/final/mainReplicates.csv",
+      "bytes": 912051,
+      "sha256": "c919b0a3188802d6f2b933fad9a1c5bd62d0f84cd1e37f6e11f12ecafc4b0bf7"
+    },
+    {
+      "path": "iseSim/final/mainSeedSchedule.json",
+      "bytes": 77,
+      "sha256": "d67a011649f79c2c3ff5544686808c10c963e5a9bcab7f3717ba4bd4cb9ddfde"
+    },
+    {
+      "path": "iseSim/final/mainSummary.csv",
+      "bytes": 810,
+      "sha256": "814d3a926f0043c20977fa8d9b3455954da94a6deff90c2ccd324514494c6745"
+    },
+    {
+      "path": "iseSim/final/stressReplicates.csv",
+      "bytes": 481618,
+      "sha256": "4457391d1a194f4a7f9aa44a0778bb95a2b92380c06138cb0a0711117ec87ab0"
+    },
+    {
+      "path": "iseSim/final/stressSeedSchedule.json",
+      "bytes": 78,
+      "sha256": "4a786e0079cc3209920aafd5e631e574a074aceceeb3ef363c84ef5fb5776fbd"
+    },
+    {
+      "path": "iseSim/final/stressSummary.csv",
+      "bytes": 1367,
+      "sha256": "8943fca9588b1eeb60787a78613b8d7d9e974bdbfbefd1b97ab744f6d9922ee3"
+    },
+    {
+      "path": "mainSimulation.py",
+      "bytes": 5793,
+      "sha256": "bc15c08911eac786d02931db7bbdce231bd7ddf2f7d809062dcd09764d086655"
+    },
+    {
+      "path": "makeFrontierFigure.py",
+      "bytes": 1893,
+      "sha256": "db5265e7bc67d228c1d81c925077003e24404f599f907d80bdd80fa5695d3a81"
+    },
+    {
+      "path": "makeTables.py",
+      "bytes": 4384,
+      "sha256": "af388399535e832ddc7fc668b640aac7421ed06c490350cd065bc2d5542ec718"
+    },
+    {
+      "path": "phase0SyntheticOutputs/phase0AnalysisSpread.csv",
+      "bytes": 500,
+      "sha256": "27caa55776a83031543e0d86fd19d4901c15b29d1ae19ace3bd0941e9e63c874"
+    },
+    {
+      "path": "phase0SyntheticOutputs/phase0FeatureLevelResults.csv",
+      "bytes": 127782,
+      "sha256": "255b71ed901864239b8cdbe957465f5237e725f4663ea702a806b3eb1ec4a4fa"
+    },
+    {
+      "path": "phase0SyntheticOutputs/phase0SeedSchedule.json",
+      "bytes": 95,
+      "sha256": "08571fab4805490ed2705d9221833bbe33a2edb91cf046d070e46dddd0225190"
+    },
+    {
+      "path": "phase0SyntheticOutputs/phase0ValidationMetrics.csv",
+      "bytes": 510,
+      "sha256": "4b4c17e707c9d1d4022338aa98aadc7933453d5851d5221bd65bfa11baab8001"
+    },
+    {
+      "path": "phase0SyntheticOutputs/roleSpecificAnalysisValues.csv",
+      "bytes": 497,
+      "sha256": "ae9ddccf989bdd2518379a95fd28b1cef49ccd7e7ed1cc7f75518c70a310b6f0"
+    },
+    {
+      "path": "phase0SyntheticOutputs/syntheticNoteVignettes.csv",
+      "bytes": 72988,
+      "sha256": "ab70ddf0596f5d6dd97f8d06be5deb166932169fefae42c9b7e392af1ba31d9c"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 31,
+      "sha256": "32f640aa5bd68997fd1571cf5924162f5bc1c3ecf6be9fb6a92c24a32ca0f573"
+    },
+    {
+      "path": "stressSimulation.py",
+      "bytes": 3481,
+      "sha256": "f05d8ad442df2fe8f5c8aec66c24272194bd29bddee0e2363f43b04ea2f78a09"
+    },
+    {
+      "path": "syntheticPhase0Validation.py",
+      "bytes": 12244,
+      "sha256": "a95155b01b8b87fc6b6118f4aba46953b94d114ca9cef5c7dc093d77fb35a244"
+    },
+    {
+      "path": "verifyManifest.py",
+      "bytes": 798,
+      "sha256": "4b9fcae001bc85514b2179cc28df075dc5021d5ffc390d9ef8ce27cea2b9dd93"
+    },
+    {
+      "path": "verifyReproduction.py",
+      "bytes": 5933,
+      "sha256": "4519a516e389d256d5762e71942b1b77cc2710ff048122f2f9cccf39712a135d"
+    },
+    {
+      "path": "../iseSim/final/frontierPlot.png",
+      "bytes": 111574,
+      "sha256": "1f7fcd177ea801aa92fb89b813bf5f19d75efc937df061a11b45c9e20ed5ffcb"
+    },
+    {
+      "path": "../manuscript.tex",
+      "bytes": 147600,
+      "sha256": "f118761848e39ba98c3cbbf2534a1d1a9cfef0202298f4de1dbe2a730c093735"
+    },
+    {
+      "path": "../tables/TableAdditionalStress.tex",
+      "bytes": 1224,
+      "sha256": "4ed3acf851bd6e70536691ada20d84a4077a735171032bf0afeea4ad0bc97859"
+    },
+    {
+      "path": "../tables/TableCompressionDrift.tex",
+      "bytes": 399,
+      "sha256": "b2ad7b9f95c313fef3f6bdd96dc64a9a7947039e994217977de60a0a60f31cc7"
+    },
+    {
+      "path": "../tables/TableFrontier.tex",
+      "bytes": 436,
+      "sha256": "bbccac270a927a23d5dd1263d37508aef934b97da822eb0bff241654bc55c46d"
+    },
+    {
+      "path": "../tables/TableMainSimulation.tex",
+      "bytes": 587,
+      "sha256": "0cee8c21c07c4520d92e918ba3bf8a49eac7ffa4fbca783ff5494868f2740290"
+    }
+  ]
+}

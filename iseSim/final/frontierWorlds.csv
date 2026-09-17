@@ -1,0 +1,4 @@
+world,roleInterpretation,estimandValue
+B,pre-treatment state,0.2499999999999999
+M,post-treatment mediator,0.45999999999999985
+Y,outcome-adjacent proxy,-0.1700000000000001

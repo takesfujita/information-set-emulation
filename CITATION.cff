@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the accompanying manuscript."
+title: "Reproducibility package for: Information Set Emulation: Causal Certificates for AI Derived EHR Features"
+type: software
+version: "2.2.2"
+date-released: "2026-09-07"
+authors:
+  - family-names: "Fujita"
+    given-names: "Takes"
+    affiliation: "VRI"
+  - family-names: "Hattori"
+    given-names: "Nobutaka"
+    affiliation: "Department of Neurology, Juntendo University School of Medicine"
+keywords:
+  - causal inference
+  - electronic health records
+  - target trial emulation
+  - information sets
+  - partial identification
+  - reproducibility
+abstract: "Reproducibility package containing synthetic simulation scripts, seed schedules, replicate-level outputs, table and figure generation scripts, synthetic Phase 0 validation files, and file hashes for the artificial EHR simulations in Information Set Emulation. No real patient data are used."

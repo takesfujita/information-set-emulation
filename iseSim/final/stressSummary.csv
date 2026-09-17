@@ -1,0 +1,15 @@
+failureMode,setting,bias,rmse,coverage
+AI extraction error,low extraction error,0.005285347925156139,0.10305488294460738,0.98
+AI extraction error,moderate extraction error,0.265915642627235,0.2929188238211152,0.435
+AI extraction error,high extraction error,0.49733616835186517,0.5140790357591315,0.05
+Post index partial leakage,no leakage lambda 0,0.011058326237230787,0.11418201805029024,0.935
+Post index partial leakage,partial leakage lambda 0.25,-0.3082272037690237,0.32303882246585996,0.115
+Post index partial leakage,partial leakage lambda 0.50,-0.42307607276781306,0.4326166637742191,0.005
+Certificate role misclassification,misclassification 0 percent,0.02351234400618475,0.1121150051256025,0.97
+Certificate role misclassification,misclassification 10 percent,-0.16928095221335646,0.20174038944881817,0.625
+Certificate role misclassification,misclassification 20 percent,-0.3053276854532658,0.31893216757439036,0.105
+Availability error,available at time zero,0.017253371285377565,0.10638674192452498,0.95
+Availability error,late availability lambda 0.50,-0.8183093087097693,0.8223453153968759,0.0
+Availability error,late availability lambda 1.00,-1.1031053484311153,1.1064593600177608,0.0
+Positivity stress,ordinary overlap,0.011108578318997817,0.11631248780122502,0.92
+Positivity stress,strong positivity stress,0.022640332797881548,0.14027879530240653,0.94

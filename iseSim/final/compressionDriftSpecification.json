@@ -1,0 +1,10 @@
+{
+  "method": "exact enumeration",
+  "supportSize": 16,
+  "seed": null,
+  "distribution": "independent uniform X,J,O in {-1,1}; independent D in {0,1}",
+  "compressed": "X+J",
+  "richer": "(X+J,D,O)",
+  "summary": "population-stratum-probability weighted absolute conditional drift",
+  "maxError": "maximum absolute direct-minus-covariance error across all strata"
+}

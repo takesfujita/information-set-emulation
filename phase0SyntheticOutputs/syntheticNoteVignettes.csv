@@ -1,0 +1,601 @@
+patient_id,feature,true_role,true_source,true_clinical_relation,true_recording_relation,true_availability_relation,source_text
+SYN001,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN001,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN001,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN001,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN001,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN002,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN002,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN002,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN002,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN002,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN003,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN003,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN003,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN003,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN003,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN004,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN004,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN004,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN004,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN004,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN005,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN005,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN005,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN005,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN005,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN006,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN006,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN006,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN006,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN006,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN007,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN007,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN007,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN007,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN007,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN008,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN008,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN008,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN008,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN008,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN009,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN009,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN009,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN009,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN009,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN010,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN010,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN010,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN010,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN010,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN011,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN011,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN011,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN011,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN011,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN012,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN012,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN012,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN012,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN012,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN013,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN013,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN013,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN013,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN013,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN014,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN014,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN014,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN014,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN014,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN015,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN015,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN015,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN015,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN015,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN016,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN016,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN016,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN016,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN016,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN017,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN017,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN017,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN017,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN017,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN018,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN018,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN018,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN018,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN018,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN019,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN019,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN019,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN019,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN019,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN020,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN020,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN020,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN020,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN020,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN021,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN021,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN021,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN021,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN021,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN022,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN022,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN022,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN022,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN022,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN023,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN023,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN023,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN023,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN023,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN024,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN024,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN024,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN024,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN024,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN025,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN025,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN025,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN025,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN025,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN026,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN026,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN026,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN026,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN026,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN027,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN027,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN027,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN027,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN027,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN028,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN028,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN028,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN028,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN028,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN029,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN029,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN029,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN029,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN029,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN030,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN030,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN030,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN030,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN030,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN031,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN031,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN031,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN031,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN031,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN032,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN032,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN032,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN032,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN032,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN033,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN033,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN033,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN033,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN033,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN034,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN034,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN034,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN034,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN034,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN035,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN035,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN035,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN035,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN035,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN036,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN036,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN036,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN036,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN036,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN037,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN037,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN037,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN037,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN037,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN038,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN038,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN038,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN038,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN038,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN039,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN039,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN039,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN039,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN039,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN040,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN040,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN040,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN040,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN040,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN041,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN041,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN041,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN041,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN041,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN042,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN042,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN042,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN042,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN042,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN043,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN043,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN043,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN043,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN043,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN044,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN044,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN044,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN044,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN044,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN045,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN045,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN045,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN045,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN045,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN046,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN046,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN046,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN046,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN046,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN047,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN047,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN047,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN047,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN047,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN048,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN048,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN048,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN048,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN048,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN049,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN049,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN049,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN049,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN049,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN050,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN050,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN050,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN050,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN050,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN051,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN051,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN051,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN051,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN051,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN052,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN052,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN052,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN052,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN052,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN053,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN053,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN053,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN053,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN053,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN054,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN054,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN054,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN054,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN054,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN055,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN055,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN055,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN055,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN055,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN056,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN056,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN056,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN056,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN056,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN057,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN057,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN057,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN057,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN057,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN058,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN058,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN058,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN058,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN058,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN059,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN059,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN059,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN059,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN059,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN060,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN060,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN060,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN060,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN060,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN061,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN061,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN061,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN061,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN061,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN062,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN062,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN062,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN062,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN062,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN063,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN063,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN063,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN063,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN063,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN064,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN064,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN064,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN064,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN064,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN065,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN065,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN065,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN065,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN065,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN066,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN066,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN066,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN066,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN066,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN067,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN067,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN067,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN067,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN067,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN068,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN068,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN068,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN068,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN068,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN069,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN069,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN069,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN069,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN069,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN070,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN070,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN070,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN070,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN070,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN071,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN071,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN071,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN071,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN071,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN072,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN072,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN072,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN072,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN072,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN073,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN073,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN073,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN073,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN073,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN074,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN074,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN074,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN074,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN074,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN075,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN075,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN075,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN075,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN075,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN076,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN076,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN076,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN076,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN076,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN077,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN077,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN077,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN077,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN077,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN078,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN078,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN078,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN078,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN078,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN079,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN079,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN079,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN079,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN079,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN080,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN080,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN080,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN080,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN080,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN081,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN081,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN081,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN081,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN081,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN082,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN082,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN082,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN082,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN082,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN083,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN083,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN083,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN083,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN083,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN084,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN084,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN084,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN084,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN084,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN085,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN085,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN085,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN085,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN085,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN086,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN086,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN086,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN086,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN086,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN087,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN087,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN087,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN087,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN087,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN088,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN088,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN088,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN088,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN088,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN089,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN089,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN089,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN089,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN089,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN090,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN090,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN090,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN090,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN090,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN091,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN091,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN091,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN091,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN091,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN092,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN092,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN092,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN092,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN092,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN093,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN093,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN093,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN093,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN093,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN094,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN094,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN094,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN094,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN094,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN095,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN095,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN095,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN095,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN095,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN096,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN096,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN096,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN096,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN096,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN097,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN097,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN097,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN097,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN097,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN098,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN098,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN098,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN098,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN098,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN099,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN099,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN099,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN099,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN099,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN100,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN100,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN100,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN100,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN100,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN101,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN101,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN101,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN101,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN101,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN102,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN102,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN102,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN102,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN102,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN103,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN103,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN103,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN103,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN103,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN104,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN104,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN104,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN104,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN104,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN105,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN105,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN105,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN105,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN105,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN106,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN106,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN106,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN106,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN106,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN107,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN107,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN107,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN107,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN107,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN108,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN108,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN108,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN108,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN108,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN109,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN109,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN109,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN109,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN109,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN110,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN110,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN110,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN110,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN110,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN111,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN111,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN111,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN111,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN111,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN112,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN112,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN112,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN112,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN112,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN113,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN113,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN113,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN113,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN113,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN114,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN114,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN114,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN114,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN114,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN115,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN115,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN115,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN115,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN115,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN116,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN116,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN116,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN116,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN116,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN117,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN117,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN117,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN117,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN117,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Routine daily monitoring was ordered.
+SYN118,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient independent with activities before treatment.
+SYN118,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN118,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states baseline function was good before treatment.
+SYN118,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN118,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN119,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN119,orderRationale,D,orderHistory,pre,pre,pre,Treatment selected after renal function and regimen availability were reviewed.
+SYN119,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN119,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN119,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.
+SYN120,preClinicFrailty,B,preClinicNote,pre,pre,pre,Patient walks one block and needs help with bathing before treatment.
+SYN120,orderRationale,D,orderHistory,pre,pre,pre,Standard regimen available; no special restriction recorded.
+SYN120,lateHistorySummary,B,dischargeSummary,pre,post,post,Discharge summary states patient had poor mobility before treatment.
+SYN120,responseSummary,M,postProgressNote,post,post,post,"After treatment, symptoms improved and clinician noted early response."
+SYN120,monitoringIntensity,Obs,labOrderStream,mixed,mixed,mixed,Laboratory checks were ordered every six hours during early follow up.

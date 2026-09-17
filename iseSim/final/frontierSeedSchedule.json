@@ -1,0 +1,8 @@
+{
+  "seed": 20260807,
+  "replications": 5000,
+  "ehrSampleSize": 1000,
+  "prospectiveSampleSize": 300,
+  "missingY1Untreated": 0.1,
+  "missingY0Treated": 0.9
+}

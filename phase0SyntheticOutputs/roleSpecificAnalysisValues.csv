@@ -1,0 +1,5 @@
+role_interpretation,symbol,analysis_value,calculation
+certified pre treatment state/design,B/D/H/U,0.8421782592153961,total effect over prospective pre treatment information
+mediator lock,M,0.5496782592153961,direct component when post treatment mediator is held fixed
+outcome proxy adjustment,Y,0.10198932684425456,large-population regression contrast after conditioning on outcome proxy
+observation weighted target,Obs,0.9276400992907097,total effect weighted by synthetic observation mechanism

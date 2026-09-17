@@ -1,0 +1,36 @@
+{
+  "mainSimulation": {
+    "seedBase": 20260000,
+    "replications": 1000,
+    "n": 1000,
+    "script": "mainSimulation.py",
+    "outdir": "iseSim/final"
+  },
+  "stressSimulation": {
+    "seedBase": 20261000,
+    "replications": 200,
+    "n": 1000,
+    "script": "stressSimulation.py",
+    "outdir": "iseSim/final"
+  },
+  "compatibleWorldFrontier": {
+    "seed": 20260807,
+    "replications": 5000,
+    "ehrN": 1000,
+    "prospectiveN": 300,
+    "script": "compatibleWorldFrontier.py",
+    "outdir": "iseSim/final"
+  },
+  "syntheticPhase0Validation": {
+    "seed": 20260609,
+    "script": "syntheticPhase0Validation.py",
+    "outdir": "phase0SyntheticOutputs"
+  },
+  "compressionDriftValidation": {
+    "method": "exact finite-support enumeration",
+    "seed": null,
+    "script": "compressionDriftValidation.py",
+    "outdir": "iseSim/final",
+    "tabledir": "../tables"
+  }
+}
